@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+*.sock
+
+.sass-cache
+sass
+config.rb
+npm-debug.log
+
+.dccache
+.dcignore
+.idea/
+.dccache
+
+.env
+.env.*
+!.env.example
